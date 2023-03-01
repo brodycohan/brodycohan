@@ -28,6 +28,6 @@ I am currently pursuing an AS in Web Development at San Diego Mesa College, in a
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/brodycohan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tylercallison&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/brodycohan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brodycohan&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/brodycohan"><img src="https://activity-graph.herokuapp.com/graph?username=tylercallison&bg_color=27272a&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/brodycohan"><img src="https://activity-graph.herokuapp.com/graph?username=brodycohan&bg_color=27272a&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
