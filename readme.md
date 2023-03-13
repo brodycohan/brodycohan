@@ -1,14 +1,14 @@
 Hi 👋 My name is Brody Cohan
 ===============================
 
-Web Developer
+Full Stack Developer
 -------------
 
 I am currently pursuing an AS in Web Development at San Diego Mesa College, in addition to a BA in Economics at San Diego State University. I love being able to create projects and contribute to the web.
 
 * 🌍  I'm based in San Diego, California
 * ✉️  You can contact me at [brodypcohan@gmail.com](mailto:brodypcohan@gmail.com)
-* 🤝  I'm open to collaborating on websites and mobile applications
+* 🤝  I'm open to collaborating on websites, games, and mobile applications
 
 ### Skills
 
