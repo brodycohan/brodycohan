@@ -4,9 +4,9 @@ Hi 👋 My name is Brody Cohan
 Full Stack Developer
 -------------
 
-I am currently pursuing an AS in Web Development at San Diego Mesa College, in addition to a BA in Economics at San Diego State University. I love being able to create projects and contribute to the web.
+I am currently pursuing a BS in Computer Science at Western Governers University. I love being able to create projects and contribute to the field.
 
-* 🌍  I'm based in San Diego, California
+* 🌍  I'm based in Richland, Washington
 * ✉️  You can contact me at [brodypcohan@gmail.com](mailto:brodypcohan@gmail.com)
 * 🤝  I'm open to collaborating on websites, games, and mobile applications
 
